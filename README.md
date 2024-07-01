@@ -19,3 +19,4 @@ Hello there 👋, I'm Alexandre, a web developer. At this moment, I know HTML, C
 
 ## Connect with me:
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord alexandretortora"></a>
+<a href="https://steamcommunity.com/id/alexd7/" target="blank"><img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam alexandretortora"></a>
