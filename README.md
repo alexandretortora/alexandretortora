@@ -6,8 +6,6 @@ Hello there 👋, I'm Alexandre. At this moment, I know HTML, CSS, and JavaScrip
 
 - 🌱 I’m currently learning **React.js !!!**
 
-- 📫 How to reach me **alexandretortora.s@hotmail.com**
-
 - ⚡ Fun fact **I love Star Wars 🌌**
 
 ## Skills:
