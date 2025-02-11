@@ -1,4 +1,4 @@
-# Alexandre Tortora
+# Alexandre
 
 Hello there 👋, I'm Alexandre. At this moment, I know HTML, CSS, and JavaScript well, and I'm learn React.js. Aiming to explore the field of technology, in 2023. I started my studies on the RocketSeat platform to expand my knowledge in the area.
 
