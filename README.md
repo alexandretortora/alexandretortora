@@ -10,11 +10,3 @@ Hello there 👋, I'm Alexandre. At this moment, I know HTML, CSS, and JavaScrip
 
 ## Skills:
 ![My Skills](https://skillicons.dev/icons?i=react,js,html,css,nodejs,github,bootstrap,tailwind,ps,figma,nextjs)
-
-## My Github Overview:
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandretortora&show_icons=true&locale=en&layout=compact" alt="alexandretortora" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandretortora&show_icons=true" alt="alexandretortora" />
-
-## Connect with me:
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord alexandretortora"></a>
-<a href="https://steamcommunity.com/id/alexd7/" target="blank"><img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam alexandretortora"></a>
